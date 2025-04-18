@@ -16,31 +16,31 @@ This contains a variety of cheat sheets across different topics. These cheat she
 
 Get a quick reference of all the essential HTTP status codes, grouped by their categories:
 
-- [HTTP Status Codes Cheat Sheet](./http/status.md)
+- [HTTP Status Codes Cheat Sheet](./http-status.md)
 
 ## Git Cheat Sheet
 
 Basic and advanced Git commands to help you manage version control effectively:
 
-- [Git Cheat Sheet](./git/git-cheat-sheet.md)
+- [Git Cheat Sheet](./git.md)
 
 ## Docker Commands Cheat Sheet
 
 Useful Docker commands for container management and orchestration:
 
-- [Docker Commands Cheat Sheet](./docker/docker-commands.md)
+- [Docker Commands Cheat Sheet](./docker.md)
 
 ## Kubernetes Cheat Sheet
 
 Common Kubernetes `kubectl` commands, resource management tips, and deployment guides:
 
-- [Kubernetes Cheat Sheet](./kubernetes/kubernetes.md)
+- [Kubernetes Cheat Sheet](./kubernetes.md)
 
 ## Linux Command Cheat Sheet
 
 Frequently used Linux shell commands for file management, process control, networking, and more:
 
-- [Linux Command Cheat Sheet](./linux/linux-commands.md)
+- [Linux Command Cheat Sheet](./linux.md)
 
 ## Markdown Cheat Sheet
 
